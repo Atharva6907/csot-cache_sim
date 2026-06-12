@@ -1,4 +1,4 @@
-# Week 2 — Cache Simulator
+# Cache Simulator
 
 A correct, flat-SoA, zero-allocation, compile-time-geometry implementation of
 the two-level cache hierarchy specified in [`CACHE_SPEC.md`](./CACHE_SPEC.md).
